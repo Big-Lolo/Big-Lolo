@@ -1,5 +1,7 @@
 ## Hi there, Welcom to Big-Lolo Space
-You can contact to me by discord Username: "big_lolo#8178"
+That's a friendly space where i share all my works, activities or contents.
+You can contact to me by discord Username: "big_lolo#8178".
+That's my YouTube Channel: https://www.youtube.com/channel/UCzaRLs274I5YS64Euf5PPvA
 
 
 ## In this space, could Find contents about all these topics:.../
