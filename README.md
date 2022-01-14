@@ -1,6 +1,9 @@
 ## Hi there, Welcom to Big-Lolo Space
 That's a friendly space where i share all my works, activities or contents.
 You can contact to me by discord Username: "big_lolo#8178".
+<div>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
 That's my YouTube Channel: 
 <div>
 <a href="https://www.youtube.com/channel/UCzaRLs274I5YS64Euf5PPvA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
