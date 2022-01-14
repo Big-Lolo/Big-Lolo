@@ -3,9 +3,6 @@
 
 
 - In this space, could Find contents about all these topics:.../
-<div>
-
-</div>
 [![elcaracol.png](https://i.postimg.cc/05XJ5BFt/elcaracol.png)](https://postimg.cc/jCNjZZsN)
 
 
