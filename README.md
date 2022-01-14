@@ -3,7 +3,7 @@ That's a friendly space where i share all my works, activities or contents.
 - You can contact to me by discord Username: "big_lolo#8178".
 - Also can join my discord community if you want to ask general cuestions🙂 
 <div>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://discord.gg/gDxnkYBMsw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 - That's my YouTube Channel: 
 <div>
