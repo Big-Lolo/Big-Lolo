@@ -18,7 +18,7 @@ That's a friendly space where i share all my works, activities or contents.
 
 ## Programming Languages:..
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img aling="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
 
 ## Learning..
