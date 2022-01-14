@@ -3,10 +3,10 @@
 
 
 ## In this space, could Find contents about all these topics:.../
---🐌 Fivem Scripts & Servers... ( soon.../ )
---🌐 Web Pages... ( soon.../ )
---🔽 Android Studio Content... ( soon.../ )
---🧮 Octave / Matlab Activities... ( soon.../ )
+-🐌 Fivem Scripts & Servers... ( soon.../ )
+-🌐 Web Pages... ( soon.../ )
+-🔽 Android Studio Content... ( soon.../ )
+-🧮 Octave / Matlab Activities... ( soon.../ )
 
 
 
