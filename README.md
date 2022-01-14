@@ -26,7 +26,8 @@ That's a friendly space where i share all my works, activities or contents.
 
 ## Learning..
 <div>
-<a href="https://www.youtube.com/channel/UCzaRLs274I5YS64Euf5PPvA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  <img aling="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  
 </div>
 
 
