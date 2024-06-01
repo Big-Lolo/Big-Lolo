@@ -1,7 +1,6 @@
 ## Hi there, Welcom to Big-Lolo Space
 That's a friendly space where i share all my works, activities or contents.
 - You can contact to me by discord Username: "big_lolo".
-- Also can join my discord community if you want to ask general cuestions🙂 
 <div>
 <a href="https://discord.gg/gDxnkYBMsw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
@@ -12,7 +11,6 @@ That's a friendly space where i share all my works, activities or contents.
 - 🐌 Fivem Scripts & Servers... ( soon.../ )
 - 🌐 Web Pages... ( soon.../ )
 - 🔽 Android Studio Content... ( soon.../ )
-- 🧮 Octave / Matlab Activities... ( soon.../ )
 
 ## Programming Languages:..
 <div>
