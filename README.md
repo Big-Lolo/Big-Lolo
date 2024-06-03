@@ -11,10 +11,11 @@ If you would like to contact-me, i'm always on discord: "big_lolo".
 
 
 
-## In this space, could Find contents about all these topics:.../
-- 🐌 Fivem Scripts & Servers... ( soon.../ )
-- 🌐 Web Pages... ( soon.../ )
-- 🔽 Android Studio Content... ( soon.../ )
+## 🚦Tech Stack:.../
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+</div>
 
 ## Programming Languages:..
 <div>
