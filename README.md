@@ -13,7 +13,7 @@ If you would like to contact-me, i'm always on discord: "big_lolo".
 
 ## 🚦Tech Stack:.../
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="50" />
           
 </div>
 
