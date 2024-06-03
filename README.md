@@ -50,7 +50,7 @@ If you would like to contact-me, i'm always on discord: "big_lolo".
           
 ## 📈Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Lolo&layout=donut)](https://github.com/Big-Lolo/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Big-Lolo)](https://github.com/Big-Lolo/github-readme-stats)
+[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=Big-Lolo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Big-Lolo/github-readme-stats)
 
                  
   
