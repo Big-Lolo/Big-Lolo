@@ -1,4 +1,4 @@
-## 👀About Me:
+## 👀🌟About Me:
 Hi guys.
 I take pride in being a programmer. My journey began at 15 with HTML, and I've been continuously honing my full-stack skills ever since. 
 While I have significantly improved my frontend expertise, I am now dedicating my efforts to mastering backend development. 
