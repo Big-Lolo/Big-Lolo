@@ -54,9 +54,6 @@ If you would like to contact-me, i'm always on discord: "big_lolo".
 <br>
 [![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=Big-Lolo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Big-Lolo/github-readme-stats)
 
-                 
-  
-          
-
-  
+## 📜Portfolio:
+Soon..
 </div>
