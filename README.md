@@ -39,7 +39,7 @@ If you would like to contact-me, i'm always on discord: "big_lolo".
   
           
 
-## Learning..
+## 📙Learning...
 <div>
   <img alt="postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="mongodb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
@@ -48,8 +48,10 @@ If you would like to contact-me, i'm always on discord: "big_lolo".
   <img alt="openapi" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" />
   <img alt="poetry" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" />
           
-
+## 📈Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Lolo&layout=donut)](https://github.com/Big-Lolo/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Big-Lolo)](https://github.com/Big-Lolo/github-readme-stats)
+
                  
   
           
