@@ -49,7 +49,7 @@ If you would like to contact-me, i'm always on discord: "big_lolo".
   <img alt="poetry" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" />
           
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Big-Lolo)](https://github.com/Big-Lolo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Lolo&layout=donut)](https://github.com/Big-Lolo/github-readme-stats)
                  
   
           
