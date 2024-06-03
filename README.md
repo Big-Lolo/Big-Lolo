@@ -49,9 +49,11 @@ If you would like to contact-me, i'm always on discord: "big_lolo".
   <img alt="poetry" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" />
           
 ## 📈Github Stats:
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Lolo&layout=donut)](https://github.com/Big-Lolo/github-readme-stats)
+<br>
 [![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=Big-Lolo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Big-Lolo/github-readme-stats)
-
+</div>
                  
   
           
