@@ -1,6 +1,10 @@
-## Hi there, Welcom to Big-Lolo Space
-That's a friendly space where i share all my works, activities or contents.
-- You can contact to me by discord Username: "big_lolo".
+## About Me:
+Hi guys.
+I take pride in being a programmer. My journey began at 15 with HTML, and I've been continuously honing my full-stack skills ever since. 
+While I have significantly improved my frontend expertise, I am now dedicating my efforts to mastering backend development. 
+I'm committed to lifelong learning and coding excellence.
+
+If you would like to contact-me, i'm always on discord: "big_lolo".
 <div>
 <a href="https://discord.gg/gDxnkYBMsw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
