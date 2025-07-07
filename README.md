@@ -1,59 +1,97 @@
-## 👀🌟About Me:
-Hi guys.
-I take pride in being a programmer. My journey began at 15 with HTML, and I've been continuously honing my full-stack skills ever since. 
-While I have significantly improved my frontend expertise, I am now dedicating my efforts to mastering backend development. 
-I'm committed to lifelong learning and coding excellence.
+<!-- GitHub Profile of Big-Lolo -->
 
-If you would like to contact-me, i'm always on discord: "big_lolo".
-<div>
-  
+<h1 align="center">Hi 👋, I'm Big-Lolo!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1E90FF&width=520&center=true&lines=Electronics+Engineering+Student;Full+Stack+Developer;Passionate+about+technology+and+innovation" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Electronics Engineering student
+- 👨‍💻 Full Stack Developer (Frontend + Backend)
+- 💡 Passionate about technology, learning, and innovation
+- 🌱 Currently an active developer at **LleidaHack**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <!-- Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <!-- Tools & Package Managers -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>
+
+---
+
+## 🌟 Featured Repositories
+
+<div align="center">
+
+<!-- Card 1 -->
+<a href="https://github.com/LleidaHack/awesome-lleida" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Awesome-Lleida-blueviolet?style=for-the-badge" alt="Awesome-Lleida Badge"><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LleidaHack&repo=awesome-lleida&theme=tokyonight&hide_border=true" width="340"/>
+  <p><b>Role:</b> Full Stack Contributor<br>
+  <b>What is it?</b> Repository with resources, projects, and tech community in Lleida.</p>
+</a>
+<!-- Card 2 -->
+<a href="https://github.com/Big-Lolo/mi-proyecto-electronica" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%94%8B%20Electronics%20Project-009688?style=for-the-badge" alt="Electronics Project Badge"><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Big-Lolo&repo=mi-proyecto-electronica&theme=tokyonight&hide_border=true" width="340"/>
+  <p><b>Role:</b> Author & Developer<br>
+  <b>What is it?</b> Academic project focused on embedded systems and control.</p>
+</a>
+<!-- Card 3 -->
+<a href="https://github.com/Big-Lolo/fullstack-demo" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20FullStack%20Demo-1976D2?style=for-the-badge" alt="FullStack Demo Badge"><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Big-Lolo&repo=fullstack-demo&theme=tokyonight&hide_border=true" width="340"/>
+  <p><b>Role:</b> Creator & Maintainer<br>
+  <b>What is it?</b> Practical example of frontend-backend integration using React and Python.</p>
+</a>
+
 </div>
 
+---
 
+## 📊 GitHub Stats
 
-## 🚦Tech Stack:.../
-<div>
-  <img aling="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img aling="center" alt="css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img aling="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img aling="center" alt="react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img aling="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img alt="lua" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-  <img alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />    
-  <img alt="androidstudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img alt="canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img alt="tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />       
-  <img aling="center" alt="kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img alt="matlab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-  <img alt="rstudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-  <img alt="fastapi" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-  <img alt="npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <img alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img alt="nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img alt="tensorflow" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
-          
-          
-          
-                 
-</div>
-  
-          
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Big-Lolo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Big-Lolo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Lolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-## 📙Learning...
-<div>
-  <img alt="postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="mongodb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img alt="docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="openapi" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" />
-  <img alt="poetry" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" />
-          
-## 📈Github Stats:
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Lolo&layout=donut)](https://github.com/Big-Lolo/github-readme-stats)
-<br>
-[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=Big-Lolo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Big-Lolo/github-readme-stats)
-
-## 📜Portfolio:
-Soon..
-</div>
+<!-- Geeky/cool final section with ASCII art -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=2000&pause=800&color=00FFC0&center=true&vCenter=true&width=380&lines=%F0%9F%94%A5%20Keep+Coding+and+Hacking!%20%F0%9F%94%A5;01101001+01101110+01101110+01101111+01110110+01100001+01110100+01100101" alt="Keep Coding and Hacking ASCII" />
+</p>
+<p align="center">
+  <img src="assets/circuit-ascii-dark.svg" width="350" alt="ASCII circuit" />
+</p>
