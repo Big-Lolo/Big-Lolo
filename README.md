@@ -49,25 +49,18 @@
 <div align="center">
 
 <!-- Card 1 -->
-<a href="https://github.com/LleidaHack/awesome-lleida" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Awesome-Lleida-blueviolet?style=for-the-badge" alt="Awesome-Lleida Badge"><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LleidaHack&repo=awesome-lleida&theme=tokyonight&hide_border=true" width="340"/>
+<a href="https://github.com/LleidaHack/lleidahack-frontend" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20LleidaHack-Frontend-blueviolet?style=for-the-badge" alt="LleidaHack-Frontend Badge"><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LleidaHack&repo=lleidahack-frontend&theme=tokyonight&hide_border=true" width="340"/>
   <p><b>Role:</b> Full Stack Contributor<br>
-  <b>What is it?</b> Repository with resources, projects, and tech community in Lleida.</p>
+  <b>What is it?</b> Repository Hackeps web development.</p>
 </a>
 <!-- Card 2 -->
-<a href="https://github.com/Big-Lolo/mi-proyecto-electronica" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%94%8B%20Electronics%20Project-009688?style=for-the-badge" alt="Electronics Project Badge"><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Big-Lolo&repo=mi-proyecto-electronica&theme=tokyonight&hide_border=true" width="340"/>
+<a href="https://github.com/Big-Lolo/Ark4de-I0" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%94%8B%20Robotics%20Project-009688?style=for-the-badge" alt="Electronics Project Badge"><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Big-Lolo&repo=robotic-project&theme=tokyonight&hide_border=true" width="340"/>
   <p><b>Role:</b> Author & Developer<br>
-  <b>What is it?</b> Academic project focused on embedded systems and control.</p>
-</a>
-<!-- Card 3 -->
-<a href="https://github.com/Big-Lolo/fullstack-demo" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20FullStack%20Demo-1976D2?style=for-the-badge" alt="FullStack Demo Badge"><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Big-Lolo&repo=fullstack-demo&theme=tokyonight&hide_border=true" width="340"/>
-  <p><b>Role:</b> Creator & Maintainer<br>
-  <b>What is it?</b> Practical example of frontend-backend integration using React and Python.</p>
+  <b>What is it?</b> Academic project that is a game with an ui that controlls usign matlab a spider robot.</p>
 </a>
 
 </div>
